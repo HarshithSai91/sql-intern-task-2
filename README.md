@@ -2,7 +2,6 @@
 DML statements (INSERT, UPDATE, DELETE) and NULL handling.
 
 - `Day_2.sql` — SQL script with `INSERT`, `UPDATE`, and `DELETE` commands to populate and manage the database.
-- `README.md` — This file, including answers to conceptual questions.
 
 ## Description
 This script populates the schema created in Task 1.
